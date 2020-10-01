@@ -22,15 +22,15 @@
                Suite 500
                 Washington D.C. 20024
 		<br>
-		<a href="mailto: info@dxc.com.com">Mail to DXC Technologies</a>
+		<a href="mailto: info@epam.com.com">Mail to EPAM</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>DXC Technologies - Consultant, Training, Development Center.</p>
-<p align=center><small>Copyrights 2019 by <a href="http://DXC.com/">DXC Technologies</a> </small></p>
+<p align=center>Epam Syatem - Consultant, Training, Development Center.</p>
+<p align=center><small>Copyrights 2019 by <a href="http://epam.com/">EPAM</a> </small></p>
 
 </body>
 </html>
