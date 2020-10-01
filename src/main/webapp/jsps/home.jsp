@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome </h1>
-<h1 align="center">ABC Technology is a global IT services company that was formed on April 1, 2017, by the merger of CSC and the Enterprise Services business of Hewlett Packard Enterprise. DXC Technology has successfully guided the world’s largest enterprises and government agencies through successful change cycles. With ~138,000 employees worldwide, the company’s deep experience gives it a clear and confident vision to help clients navigate the future.  </h1>
+<h1 align="center">Welcome To EPAM Hyderabad</h1>
+<h1 align="center"> EPAM Systems, Inc. is an American company that specializes in product development, digital platform engineering, and digital and product design.EPAM was named to Forbes’ 25 Fastest Growing Public Tech Companies list in 2013</h1>
 <hr>
 <div style="text-align: center;">
 	<span>
